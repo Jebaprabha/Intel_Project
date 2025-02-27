@@ -12,11 +12,11 @@ Visualize the clustering process using dendrograms.
 Evaluate the clustering performance through the silhouette score.
 
 Technologies Used:
-Python
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 SciPy
 
 Dataset:
@@ -24,12 +24,12 @@ The Iris dataset is loaded from Scikit-learn’s built-in datasets. It contains:
 150 samples (50 from each species)
 
 4 features:
-Sepal length (cm)
-Sepal width (cm)
-Petal length (cm)
+Sepal length (cm),
+Sepal width (cm),
+Petal length (cm),
 Petal width (cm)
-Project Structure
 
+Project Structure:
 Data Preprocessing:
 Load the Iris dataset.
 Standardize the features using StandardScaler.
