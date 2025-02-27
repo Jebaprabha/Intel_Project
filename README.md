@@ -47,6 +47,7 @@ Visualization:
 Plot the clusters with a scatter plot.
 
 Results:
+
 Dendrogram: Displays the hierarchical clustering process.
 Silhouette Score: Quantifies the cohesion and separation of clusters.
 Scatter Plot: Visualizes the resulting clusters in a 2D space.
